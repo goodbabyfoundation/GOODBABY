@@ -1,0 +1,30 @@
+{
+    "name": "Goodbaby",
+    "website": "https://gdb.network",
+    "source_code": "https://etherscan.io/address/0x0328f1bdc119ad1c42e10530c9ea3eacc892f352#code",
+    "white_paper": "https://github.com/goodbabyfoundation/GOODBABY/blob/c7efd89f57e366647fd3454b4b85284c49ad7e96/GoodBaby%20Finance%20(10).pdf",
+    "description": "The GoodBaby Token is a charity driven, fair launched ERC20 Token. We main address the problems of liquidity challenges, data privacy and exchange scams. ",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/goobaby6",
+            "handle": "goodbaby"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/goodbabyfoundation/",
+            "handle": "goodbaby"
+        },
+        {
+            "name": "Discord",
+            "url": "https://discord.gg/JZvpmkFFTS",
+            "handle": "goodbaby"
+        }
+    ],
+    "explorer": "https://etherscan.io/token/0x0328f1bdc119ad1c42e10530c9ea3eacc892f352",
+    "type": "ERC20",
+    "symbol": "GDB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0328f1bdc119ad1c42e10530c9ea3eacc892f352"
+}
